@@ -8,6 +8,9 @@
     padding: 28px 43px 68px;
     text-decoration: none;
   }
+.hero-section:hover {
+            background-color: #305f6d;
+        }
   
   .header {
     display: flex;
@@ -38,6 +41,9 @@
     gap: 40px 53px;
     text-decoration: none;
   }
+.nav-menu:hover {
+            background-color: #305f6d;
+        }
   
   .main-content {
     margin-top: 67px;
