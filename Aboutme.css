@@ -25,6 +25,9 @@
     font: 400 24px Lexend, sans-serif;
     text-decoration: none;
   }
+.header:hover {
+            background-color: #305f6d;
+        }
   
   .logo {
     aspect-ratio: 1.34;
